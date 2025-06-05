@@ -13,4 +13,4 @@
 ამ batchnorm-ის ლეიერებს დავუმატე რეგულარიზაცია ვეითებისთვის და აუგმენტაცია, ანუ ფოტოების ჰორიზონტალურად და-flip-ვა და რენდომულად 10 გრადუსით ცვლა. ამ შემთხვევაში საბოლოოდ ისე მოხდა, რო ვალიდაციაზე ცოტათი უკეტესი შედეგი ქონდა ვიდრე ტესტზე...
 რაც ცხადია არ არის კარგის მანიშნებელი ![alt text](image-4.png) ![alt text](image-5.png) ![alt text](image-6.png) ლინკი:  https://wandb.ai/nkikn21-free-university-of-tbilisi-/facial-expression-recognition/runs/inj4go8y 
 
-
+შემდეგ მოდელში ზედას დავამატე დროფაუთი და ისევ ვალიდაციაზე უკეთესი შედეგი მივიღე და ამჯერად უფრო დიდი განსხვავებით: ![alt text](image-7.png). ![alt text](image-8.png) ლინკი:  https://wandb.ai/nkikn21-free-university-of-tbilisi-/facial-expression-recognition/runs/tqn83muv
