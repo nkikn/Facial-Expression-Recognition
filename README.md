@@ -14,3 +14,12 @@
 რაც ცხადია არ არის კარგის მანიშნებელი ![alt text](image-4.png) ![alt text](image-5.png) ![alt text](image-6.png) ლინკი:  https://wandb.ai/nkikn21-free-university-of-tbilisi-/facial-expression-recognition/runs/inj4go8y 
 
 შემდეგ მოდელში ზედას დავამატე დროფაუთი და ისევ ვალიდაციაზე უკეთესი შედეგი მივიღე და ამჯერად უფრო დიდი განსხვავებით: ![alt text](image-7.png). ![alt text](image-8.png) ლინკი:  https://wandb.ai/nkikn21-free-university-of-tbilisi-/facial-expression-recognition/runs/tqn83muv
+
+მომდევნო გავუშვი პროსტა რეზნეტი და ისევ იგივე მოხდა რაც ზემოთ. მაგ "პრობლემაზე" რაც გავარკვიე რო რეგულაზაციის გამო ტრეინ სეტზე მერე ვალიდაციის უფრო მარტივად მოეჩვენა და მაგიტო, ან ეპოქებია ცოტა და ადრეულ ეპოქებში ვალიდააციის ასწრებს ცოტათი მარა მე ტრენინგის გაასწრებს. ამიტო ეხლა იგივე არქიტექტურას გავუშვებ რეგულაზიის გარეშე და მერე მეტი ეპოქით და შევხედავ შედეგს. ახლანდელი აშედეგი: ![alt text](image-9.png) ლინკი:  https://wandb.ai/nkikn21-free-university-of-tbilisi-/facial-expression-recognition/runs/drqrupnt 
+
+
+attention-ით ვცადე და იგივე მოხდა, ამიტო აქაც რეგულარიზაციას ამოვაკლებ და ეპოქებს მმოვუმატებ. ლინკი: https://wandb.ai/nkikn21-free-university-of-tbilisi-/facial-expression-recognition/runs/uehs3u4e 
+
+
+
+
