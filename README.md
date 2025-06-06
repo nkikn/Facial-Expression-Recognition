@@ -20,7 +20,7 @@
 
 attention-ით ვცადე და იგივე მოხდა, ამიტო აქაც რეგულარიზაციას ამოვაკლებ და ეპოქებს მმოვუმატებ. ლინკი: https://wandb.ai/nkikn21-free-university-of-tbilisi-/facial-expression-recognition/runs/uehs3u4e . 
 
-შევცვალე ეთენშენში რეგულარიზაცია და ეპოქები, აუგმენტაციაც მოვაშორე და learning_rate 0.0001-ზე დავწიე ისევ. ![alt text](image-10.png) ლინკი: https://wandb.ai/nkikn21-free-university-of-tbilisi-/facial-expression-recognition/runs/my543her  ლოსი კარგად იკლებს, რაც ნიშნვას რო სწავლობს, ოვერფიტიც არაა. შედეგი მთლად საამაყო არაა, ამიტო ვცდი აუგმენტაციის და და მიდგომების დამატებას შდეეგის გასაუმჯობესებლად. 
+შევცვალე ეთენშენში რეგულარიზაცია და ეპოქები, აუგმენტაციაც მოვაშორე და learning_rate 0.0001-ზე დავწიე ისევ. ![alt text](image-10.png) ლინკი: https://wandb.ai/nkikn21-free-university-of-tbilisi-/facial-expression-recognition/runs/my543her  ლოსი კარგად იკლებს, რაც ნიშნვას რო სწავლობს, ოვერფიტიც არაა. შედეგი მთლად საამაყო არაა, ამიტო ვცდი აუგმენტაციის და სხვა მიდგომების გატესტსვას შდეეგის გასაუმჯობესებლად. 
 
 
 
